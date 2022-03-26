@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.removeDuplicateItem;
 
 public class removeDuplicateItem {
     public static void main(String[] args) {

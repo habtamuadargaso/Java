@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.isPerfectSquare;
 
 /*
 Online Java - IDE, Code Editor, Compiler

@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.filterCommonElement;
 
 public class FilterCommonElement {
     public static void main(String[] args) {
