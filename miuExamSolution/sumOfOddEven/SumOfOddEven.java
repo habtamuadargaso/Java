@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.sumOfOddEven;
 
 
 public class SumOfOddEven {

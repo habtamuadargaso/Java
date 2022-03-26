@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.StatonMeasure;
 
 import java.util.Scanner;
 

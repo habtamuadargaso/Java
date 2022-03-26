@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.reverseGivenInteger;
 
 
 public class ReverseGivenInteger

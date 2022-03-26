@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.isDivisible;
 
 import java.util.*;
 

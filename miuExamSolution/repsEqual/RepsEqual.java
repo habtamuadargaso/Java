@@ -1,4 +1,4 @@
-package miuExamSolution;
+package miuExamSolution.repsEqual;
 
 import java.util.Scanner;
 
