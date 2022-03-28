@@ -1,4 +1,4 @@
-package miuExamSolution.base_of_10;
+package miuExamSolution.countSquarePair;
 
 
 public class countSquarePair{
