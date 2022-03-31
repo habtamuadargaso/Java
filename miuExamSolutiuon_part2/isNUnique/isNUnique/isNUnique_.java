@@ -1,8 +1,8 @@
-package miuExamSolutiuon_part2.isNUnique;
+package isNUnique.isNUnique;
 
 import java.util.Scanner;
 
-public class isNUnique {
+public class isNUnique_ {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
