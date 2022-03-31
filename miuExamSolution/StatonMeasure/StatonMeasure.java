@@ -24,13 +24,19 @@ public class StatonMeasure {
 
      }
      public static int statonMeasure(int [] a){
+         /* the count 1s occurance in the array  */
         int statonMeasure = 0;
+        /* take the variable numbers how many time statonMeasure is occur in the variable */
         int statonOcuurance = 0;
+       /*count 1s in the given array by using the for loop*/
         for(int index = 0 ; index < a.length; index++){
+            /* check using the for loops 1s  */
            if(a[index] == 1) {
+               /*count the occurance*/
                statonOcuurance++;
            }
         }
+        /*then check the statonOcurance in the given array list using for  loop */
         for(int index = 0; index<a.length;index++){
             if(a[index] == statonOcuurance ){
                 statonMeasure++;
